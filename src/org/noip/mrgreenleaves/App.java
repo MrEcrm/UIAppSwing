@@ -1,4 +1,4 @@
-package org.noip.mrgreenleaves.GUI;
+package org.noip.mrgreenleaves;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
